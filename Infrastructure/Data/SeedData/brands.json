@@ -1,0 +1,23 @@
+
+[
+    {
+        "Id":1,
+        "Name":"Giant"
+    },
+    {
+        "Id":2,
+        "Name":"Bianchi"
+    },
+    {
+        "Id":3,
+        "Name":"Trek"
+    },
+    {
+        "Id":4,
+        "Name":"Scott"
+    },
+    {
+        "Id":5,
+        "Name":"Fuji"
+    }
+]
