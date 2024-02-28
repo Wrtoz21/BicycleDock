@@ -163,3 +163,6 @@ C:\Users\warittorn\Desktop\MyMVCProject\BicycleDock\API\bin\Debug\net8.0\Core.dl
 C:\Users\warittorn\Desktop\MyMVCProject\BicycleDock\API\bin\Debug\net8.0\Infrastructure.dll
 C:\Users\warittorn\Desktop\MyMVCProject\BicycleDock\API\bin\Debug\net8.0\Infrastructure.pdb
 C:\Users\warittorn\Desktop\MyMVCProject\BicycleDock\API\bin\Debug\net8.0\Core.pdb
+C:\Users\warittorn\Desktop\MyMVCProject\BicycleDock\API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\warittorn\Desktop\MyMVCProject\BicycleDock\API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\warittorn\Desktop\MyMVCProject\BicycleDock\API\bin\Debug\net8.0\API.staticwebassets.runtime.json
