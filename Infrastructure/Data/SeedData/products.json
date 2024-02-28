@@ -1,0 +1,122 @@
+[
+    {
+        "Name":"Old School",
+        "Description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum",
+        "Price":500,
+        "PictureUrl":"images/products/Bicycle1.jpg",
+        "ProductTypeId":4,
+        "ProductBrandId":1
+    },
+    {
+        "Name":"New Type",
+        "Description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum",
+        "Price":300,
+        "PictureUrl":"images/products/Bicycle2.jpg",
+        "ProductTypeId":2,
+        "ProductBrandId":3
+    },
+    {
+        "Name":"On Link",
+        "Description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum",
+        "Price":350,
+        "PictureUrl":"images/products/Bicycle3.jpg",
+        "ProductTypeId":1,
+        "ProductBrandId":4
+    },
+    {
+        "Name":"Right thing",
+        "Description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum",
+        "Price":500,
+        "PictureUrl":"images/products/Bicycle4.jpg",
+        "ProductTypeId":8,
+        "ProductBrandId":5
+    },
+    {
+        "Name":"Out line",
+        "Description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum",
+        "Price":150,
+        "PictureUrl":"images/products/Bicycle5.jpg",
+        "ProductTypeId":7,
+        "ProductBrandId":2
+    },
+    {
+        "Name":"Exploe",
+        "Description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum",
+        "Price":300,
+        "PictureUrl":"images/products/Bicycle6.jpg",
+        "ProductTypeId":6,
+        "ProductBrandId":3
+    },
+    {
+        "Name":"NightType",
+        "Description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum",
+        "Price":260,
+        "PictureUrl":"images/products/Bicycle7.jpg",
+        "ProductTypeId":3,
+        "ProductBrandId":5
+    },
+    {
+        "Name":"Ago",
+        "Description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum",
+        "Price":770,
+        "PictureUrl":"images/products/Bicycle8.jpg",
+        "ProductTypeId":8,
+        "ProductBrandId":1
+    },
+    {
+        "Name":"AgeRun",
+        "Description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum",
+        "Price":600,
+        "PictureUrl":"images/products/Bicycle9.jpg",
+        "ProductTypeId":4,
+        "ProductBrandId":3
+    },
+    {
+        "Name":"DogBoss",
+        "Description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum",
+        "Price":400,
+        "PictureUrl":"images/products/Bicycle10.jpg",
+        "ProductTypeId":7,
+        "ProductBrandId":3
+    },
+    {
+        "Name":"AgeUo",
+        "Description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum",
+        "Price":230,
+        "PictureUrl":"images/products/Bicycle11.jpg",
+        "ProductTypeId":5,
+        "ProductBrandId":5
+    },
+    {
+        "Name":"RunA",
+        "Description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum",
+        "Price":510,
+        "PictureUrl":"images/products/Bicycle12.jpg",
+        "ProductTypeId":4,
+        "ProductBrandId":4
+    },
+    {
+        "Name":"OldG",
+        "Description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum",
+        "Price":100,
+        "PictureUrl":"images/products/Bicycle13.jpg",
+        "ProductTypeId":4,
+        "ProductBrandId":2
+    },
+    {
+        "Name":"HookSa",
+        "Description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum",
+        "Price":160,
+        "PictureUrl":"images/products/Bicycle14.jpg",
+        "ProductTypeId":3,
+        "ProductBrandId":3
+    },
+    {
+        "Name":"HouseBoy",
+        "Description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum",
+        "Price":160,
+        "PictureUrl":"images/products/Bicycle15.jpg",
+        "ProductTypeId":7,
+        "ProductBrandId":5
+    }
+]

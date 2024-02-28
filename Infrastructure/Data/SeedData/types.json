@@ -1,0 +1,34 @@
+[
+    {
+        "Id":1,
+        "Name":"Road Bikes"
+    },
+    {
+        "Id":2,
+        "Name":"Cyclocross Bikes"
+    },
+    {
+        "Id":3,
+        "Name":"Touring Bikes"
+    },
+    {
+        "Id":4,
+        "Name":"Adventure Road Bikes"
+    },
+    {
+        "Id":5,
+        "Name":"Fitness Bikes"
+    },
+    {
+        "Id":6,
+        "Name":"Track"
+    },
+    {
+        "Id":7,
+        "Name":"Mountain Bikes"
+    },
+    {
+        "Id":8,
+        "Name":"Hybrid Bikes"
+    }
+]
