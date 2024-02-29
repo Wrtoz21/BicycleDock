@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vtnOr0ePa2J6SbnhhA2bXjyoPKismfmWC474T+KXksU=",
+  "Hash": "nJWoN6YGBv1kdKBppGPetlkSEaS0N9hdrgPZEAuZ1KU=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\warittorn\\Desktop\\MyMVCProject\\BicycleDock\\API\\wwwroot\\images\\Bicycle1.jpg",
+      "Identity": "C:\\Users\\warittorn\\Desktop\\MyMVCProject\\BicycleDock\\API\\wwwroot\\images\\products\\Bicycle1.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\warittorn\\Desktop\\MyMVCProject\\BicycleDock\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/Bicycle1.jpg",
+      "RelativePath": "images/products/Bicycle1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -33,15 +33,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Bicycle1.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Bicycle1.jpg"
     },
     {
-      "Identity": "C:\\Users\\warittorn\\Desktop\\MyMVCProject\\BicycleDock\\API\\wwwroot\\images\\Bicycle10.jpg",
+      "Identity": "C:\\Users\\warittorn\\Desktop\\MyMVCProject\\BicycleDock\\API\\wwwroot\\images\\products\\Bicycle10.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\warittorn\\Desktop\\MyMVCProject\\BicycleDock\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/Bicycle10.jpg",
+      "RelativePath": "images/products/Bicycle10.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -52,15 +52,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Bicycle10.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Bicycle10.jpg"
     },
     {
-      "Identity": "C:\\Users\\warittorn\\Desktop\\MyMVCProject\\BicycleDock\\API\\wwwroot\\images\\Bicycle11.jpg",
+      "Identity": "C:\\Users\\warittorn\\Desktop\\MyMVCProject\\BicycleDock\\API\\wwwroot\\images\\products\\Bicycle11.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\warittorn\\Desktop\\MyMVCProject\\BicycleDock\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/Bicycle11.jpg",
+      "RelativePath": "images/products/Bicycle11.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -71,15 +71,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Bicycle11.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Bicycle11.jpg"
     },
     {
-      "Identity": "C:\\Users\\warittorn\\Desktop\\MyMVCProject\\BicycleDock\\API\\wwwroot\\images\\Bicycle12.jpg",
+      "Identity": "C:\\Users\\warittorn\\Desktop\\MyMVCProject\\BicycleDock\\API\\wwwroot\\images\\products\\Bicycle12.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\warittorn\\Desktop\\MyMVCProject\\BicycleDock\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/Bicycle12.jpg",
+      "RelativePath": "images/products/Bicycle12.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -90,15 +90,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Bicycle12.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Bicycle12.jpg"
     },
     {
-      "Identity": "C:\\Users\\warittorn\\Desktop\\MyMVCProject\\BicycleDock\\API\\wwwroot\\images\\Bicycle13.jpg",
+      "Identity": "C:\\Users\\warittorn\\Desktop\\MyMVCProject\\BicycleDock\\API\\wwwroot\\images\\products\\Bicycle13.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\warittorn\\Desktop\\MyMVCProject\\BicycleDock\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/Bicycle13.jpg",
+      "RelativePath": "images/products/Bicycle13.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -109,15 +109,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Bicycle13.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Bicycle13.jpg"
     },
     {
-      "Identity": "C:\\Users\\warittorn\\Desktop\\MyMVCProject\\BicycleDock\\API\\wwwroot\\images\\Bicycle14.jpg",
+      "Identity": "C:\\Users\\warittorn\\Desktop\\MyMVCProject\\BicycleDock\\API\\wwwroot\\images\\products\\Bicycle14.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\warittorn\\Desktop\\MyMVCProject\\BicycleDock\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/Bicycle14.jpg",
+      "RelativePath": "images/products/Bicycle14.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -128,15 +128,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Bicycle14.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Bicycle14.jpg"
     },
     {
-      "Identity": "C:\\Users\\warittorn\\Desktop\\MyMVCProject\\BicycleDock\\API\\wwwroot\\images\\Bicycle15.jpg",
+      "Identity": "C:\\Users\\warittorn\\Desktop\\MyMVCProject\\BicycleDock\\API\\wwwroot\\images\\products\\Bicycle15.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\warittorn\\Desktop\\MyMVCProject\\BicycleDock\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/Bicycle15.jpg",
+      "RelativePath": "images/products/Bicycle15.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -147,15 +147,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Bicycle15.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Bicycle15.jpg"
     },
     {
-      "Identity": "C:\\Users\\warittorn\\Desktop\\MyMVCProject\\BicycleDock\\API\\wwwroot\\images\\Bicycle2.jpg",
+      "Identity": "C:\\Users\\warittorn\\Desktop\\MyMVCProject\\BicycleDock\\API\\wwwroot\\images\\products\\Bicycle2.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\warittorn\\Desktop\\MyMVCProject\\BicycleDock\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/Bicycle2.jpg",
+      "RelativePath": "images/products/Bicycle2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -166,15 +166,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Bicycle2.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Bicycle2.jpg"
     },
     {
-      "Identity": "C:\\Users\\warittorn\\Desktop\\MyMVCProject\\BicycleDock\\API\\wwwroot\\images\\Bicycle3.jpg",
+      "Identity": "C:\\Users\\warittorn\\Desktop\\MyMVCProject\\BicycleDock\\API\\wwwroot\\images\\products\\Bicycle3.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\warittorn\\Desktop\\MyMVCProject\\BicycleDock\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/Bicycle3.jpg",
+      "RelativePath": "images/products/Bicycle3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -185,15 +185,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Bicycle3.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Bicycle3.jpg"
     },
     {
-      "Identity": "C:\\Users\\warittorn\\Desktop\\MyMVCProject\\BicycleDock\\API\\wwwroot\\images\\Bicycle4.jpg",
+      "Identity": "C:\\Users\\warittorn\\Desktop\\MyMVCProject\\BicycleDock\\API\\wwwroot\\images\\products\\Bicycle4.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\warittorn\\Desktop\\MyMVCProject\\BicycleDock\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/Bicycle4.jpg",
+      "RelativePath": "images/products/Bicycle4.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -204,15 +204,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Bicycle4.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Bicycle4.jpg"
     },
     {
-      "Identity": "C:\\Users\\warittorn\\Desktop\\MyMVCProject\\BicycleDock\\API\\wwwroot\\images\\Bicycle5.jpg",
+      "Identity": "C:\\Users\\warittorn\\Desktop\\MyMVCProject\\BicycleDock\\API\\wwwroot\\images\\products\\Bicycle5.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\warittorn\\Desktop\\MyMVCProject\\BicycleDock\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/Bicycle5.jpg",
+      "RelativePath": "images/products/Bicycle5.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -223,15 +223,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Bicycle5.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Bicycle5.jpg"
     },
     {
-      "Identity": "C:\\Users\\warittorn\\Desktop\\MyMVCProject\\BicycleDock\\API\\wwwroot\\images\\Bicycle6.jpg",
+      "Identity": "C:\\Users\\warittorn\\Desktop\\MyMVCProject\\BicycleDock\\API\\wwwroot\\images\\products\\Bicycle6.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\warittorn\\Desktop\\MyMVCProject\\BicycleDock\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/Bicycle6.jpg",
+      "RelativePath": "images/products/Bicycle6.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -242,15 +242,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Bicycle6.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Bicycle6.jpg"
     },
     {
-      "Identity": "C:\\Users\\warittorn\\Desktop\\MyMVCProject\\BicycleDock\\API\\wwwroot\\images\\Bicycle7.jpg",
+      "Identity": "C:\\Users\\warittorn\\Desktop\\MyMVCProject\\BicycleDock\\API\\wwwroot\\images\\products\\Bicycle7.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\warittorn\\Desktop\\MyMVCProject\\BicycleDock\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/Bicycle7.jpg",
+      "RelativePath": "images/products/Bicycle7.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -261,15 +261,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Bicycle7.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Bicycle7.jpg"
     },
     {
-      "Identity": "C:\\Users\\warittorn\\Desktop\\MyMVCProject\\BicycleDock\\API\\wwwroot\\images\\Bicycle8.jpg",
+      "Identity": "C:\\Users\\warittorn\\Desktop\\MyMVCProject\\BicycleDock\\API\\wwwroot\\images\\products\\Bicycle8.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\warittorn\\Desktop\\MyMVCProject\\BicycleDock\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/Bicycle8.jpg",
+      "RelativePath": "images/products/Bicycle8.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -280,15 +280,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Bicycle8.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Bicycle8.jpg"
     },
     {
-      "Identity": "C:\\Users\\warittorn\\Desktop\\MyMVCProject\\BicycleDock\\API\\wwwroot\\images\\Bicycle9.jpg",
+      "Identity": "C:\\Users\\warittorn\\Desktop\\MyMVCProject\\BicycleDock\\API\\wwwroot\\images\\products\\Bicycle9.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\warittorn\\Desktop\\MyMVCProject\\BicycleDock\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/Bicycle9.jpg",
+      "RelativePath": "images/products/Bicycle9.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -299,7 +299,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\Bicycle9.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Bicycle9.jpg"
     }
   ]
 }
