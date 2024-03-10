@@ -23,6 +23,8 @@ app.UseMiddleware<ExceptionMiddleware>();
 
 app.UseStatusCodePagesWithReExecute("/errors/{0}");
 
+app.UseCors("CorsPolicy");
+
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
